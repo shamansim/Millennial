@@ -1,13 +1,15 @@
 ---
 layout: post
-title: "Learning Resources"
-author: "Paul Le"
-categories: resources
-tags: [documentation,sample]
-image: arctic-2.jpg
+title: "Dress code"
+author: "The Besson-Girard"
+categories: info
+tags: [documentation]
+image: dress.jpg
 ---
 
-The beauty of computer programming is that you do not need to formally go to school to learn how to program. You can learn almost everything that you would need to know online, and for free. The following resources are some that I have used personally, that I highly recommend, for anyone looking to learn more about computer programming.
+In construction.
+
+<!-- The beauty of computer programming is that you do not need to formally go to school to learn how to program. You can learn almost everything that you would need to know online, and for free. The following resources are some that I have used personally, that I highly recommend, for anyone looking to learn more about computer programming.
 
 ## [Free Code Camp](https://www.freecodecamp.org/)
 
@@ -20,3 +22,4 @@ Not only does Codecademy have many great courses on various web development lang
 ## [Khan Academy](https://www.khanacademy.org/)
 
 A great resource not only for learning mathematics (what most people probably know Khan Academy for), but also [computer programming](https://www.khanacademy.org/computing/computer-programming). What Khan Academy offers that is different from the other two above resources is that it offers courses in [computer science related](https://www.khanacademy.org/computing/computer-science) topics, such as [algorithms](https://www.khanacademy.org/computing/computer-science/algorithms) and [cryptography](https://www.khanacademy.org/computing/computer-science/cryptography). This is unique in that most online resources mostly focus on the programming side of things.
+ -->

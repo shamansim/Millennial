@@ -2,13 +2,22 @@
 layout: default
 title: Home
 ---
+<center>
+  <h3>Welcome to the website dedicated to the upcoming Besson-Girard wedding</h3>
+  <h3>歡迎來到專門介紹 Besson-Girard 婚禮的網站</h3>
+  <i><h3>Bienvenue sur le site web dédié au mariage Besson-Girard</h3></i>
+</center>
+<br><br>
 
-{% for post in paginator.posts %}
+<a href="/reception"><img width="800" src="/assets/img/family.jpg" alt="family"></a>
+
+
+<!-- {% for post in paginator.posts %}
   {% include featured-post.html %}
 {% endfor %}
-
+ -->
 <!-- Pagination links -->
-<div class="pagination">
+<!-- <div class="pagination">
   {% if paginator.next_page %}
     <a class="pagination-button pagination-active next" href="{{ site.github.url }}{{ paginator.next_page_path }}">{{ site.data.settings.pagination.previous_page }}</a>
   {% else %}
@@ -19,4 +28,4 @@ title: Home
   {% else %}
     <span class="pagination-button">{{ site.data.settings.pagination.next_page }}</span>
   {% endif %}
-</div>
+</div> -->

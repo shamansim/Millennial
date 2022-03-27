@@ -1,13 +1,17 @@
 ---
 layout: post
-title: "Text Formatting"
-author: "Paul Le"
-categories: sample
-tags: [sample]
-image: arctic-1.jpg
+title: "Where is it?"
+author: "The Besson-Girard"
+categories: info
+tags: [documentation]
+image: map.jpg
 ---
 
-# Markdown Support
+**The reception happens in our countryhouse, in France. We do not wish to display the address publicly on this website. If you have been invited and you do not know the address already, contact us directly.**<br><br>
+招待會在我們位於法國的鄉間別墅舉行。 我們不希望在本網站上公開顯示地址。 如果您已被邀請但您還不知道地址，請直接與我們聯繫。<br><br>
+*La réception se déroule dans notre maison de campagne, en France. Nous ne souhaitons pas divulguer l'adresse sur un site à accès public. Si vous avez été invité et que vous ne connaissez pas l'adresse, contactez nous directement.*
+
+<!-- # Markdown Support
 
 As always, Jekyll offers support for GitHub Flavored Markdown, which allows you to format your posts using the [Markdown syntax](https://guides.github.com/features/mastering-markdown/). Examples of these text formatting features can be seen below. You can find this post in the `_posts` directory.
 
@@ -155,3 +159,4 @@ More information on Markdown can be found at the following links:
 - [Markdown Basics](https://daringfireball.net/projects/markdown/basics)
 - [GitHub Flavoured Markdown Spec](https://github.github.com/gfm/)
 - [Basic writing and formatting syntax](https://help.github.com/articles/basic-writing-and-formatting-syntax/#lists)
+ -->

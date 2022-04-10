@@ -5,6 +5,7 @@ author: "The Besson-Girard"
 categories: info
 tags: [documentation]
 image: foodndrink.jpg
+comments: true
 ---
 
 In construction.

@@ -1,14 +1,14 @@
 # Change 'comments' to true for Disqus comments
 disqus:
-  comments: false
-  disqus_shortname: 'weddingbg'
+  comments: true
+  disqus_shortname: 'wedding-wx0zmr9djq'
 
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
 google-ID: ''
 
 menu:
 - {name: 'The Reception', url: 'reception'} 
-- {name: 'Information', url: 'qna'}
+# - {name: 'Information', url: 'qna'}
 # - {name: 'Sample Posts',       url: 'sample-posts'}
 # - {name: 'Documentation',      url: 'documentation'}
 - {name: 'Contact', url: 'rsvp'} 

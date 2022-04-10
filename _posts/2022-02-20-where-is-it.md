@@ -5,6 +5,7 @@ author: "The Besson-Girard"
 categories: info
 tags: [documentation]
 image: map.jpg
+comments: true
 ---
 
 **The reception happens in our countryhouse, in France. We do not wish to display the address publicly on this website. If you have been invited and you do not know the address already, contact us directly.**<br><br>

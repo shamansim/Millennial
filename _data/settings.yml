@@ -8,6 +8,7 @@ google-ID: ''
 
 menu:
 - {name: 'The Reception', url: 'reception'} 
+- {name: 'Comments', url: 'comments'} 
 # - {name: 'Information', url: 'qna'}
 # - {name: 'Sample Posts',       url: 'sample-posts'}
 # - {name: 'Documentation',      url: 'documentation'}

@@ -3,7 +3,7 @@ layout: page
 title: 
 category: reception
 permalink: /reception
-comments: true
+comments: false
 ---
 <h1 style="text-align: center;">15.04.2022</h1>
 

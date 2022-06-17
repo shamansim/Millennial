@@ -16,3 +16,5 @@ comments: false
 </video>
 
 If embedding does not work, you can also watch the video in full quality <a href="http://www.besson-girard.fr/20220415_wedding_v4.mp4">here</a> or download it <a href="https://www.dropbox.com/t/uuiKFdKcdbhBKER9">there</a>.
+<br>
+Si la vidéo sur cette page ne charge pas assez rapidemenet ou n'est pas visible du tout, <a href="https://www.dropbox.com/t/uuiKFdKcdbhBKER9">cliquez ici pour télécharger la vidéo directement dans votre ordinateur</a>.
